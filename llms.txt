@@ -1,0 +1,11 @@
+# Dyad Team Builder
+
+Dyad Team Builder is a SaaS workspace for Dyad.
+
+Website: https://dyadteambuilder.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: Dyad
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
